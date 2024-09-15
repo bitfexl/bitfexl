@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - ✈️ https://splapp.duckdns.org/
+
+#### Web-Apps
+
+- JSON Viewer: https://bitfexl.github.io/json-viewer/
+- Compose Deploy Script Generator: https://bitfexl.github.io/compose-deploy/
