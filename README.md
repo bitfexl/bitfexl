@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ✈️ https://splapp.duckdns.org/
+- ✈️ https://splapp.duckdns.org
+- 🔗 https://github.com/bitfexl/urlshortener
+- 🗺️ https://github.com/bitfexl/tmsproxy
 
 #### Web-Apps
 
 - JSON Viewer: https://bitfexl.github.io/json-viewer/
 - Compose Deploy Script Generator: https://bitfexl.github.io/compose-deploy/
+- MessagePack: https://bitfexl.github.io/quick-messagepack/
